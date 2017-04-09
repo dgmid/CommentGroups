@@ -1,0 +1,42 @@
+/* note(@duncanmid): Comment Groups - Coda 2 Sidebar Plugin - SAMPLE FILE */
+
+/* @group header */
+
+header {
+	
+	background-color: #ccc;
+	padding: 20px; 
+	
+	/* @group sub-group */
+
+	.logo {
+		display: inline-block;
+	}
+	
+	h1 {
+		
+	}
+
+	/* @end */
+}
+
+/* @end */
+
+/* @group main */
+
+main {
+	
+	
+}
+
+/* @end */
+
+/* @group footer */
+
+footer {
+	
+	background-color: #ccc;
+	padding: 20px;
+}
+
+/* @end */
