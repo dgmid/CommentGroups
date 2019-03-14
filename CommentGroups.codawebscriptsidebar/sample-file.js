@@ -1,4 +1,4 @@
-//note(@duncanmid): Comment Groups - Coda 2 Sidebar Plugin v.1.0 | © D.G. Midwinter, @duncanmid
+//note(@duncanmid): Comment Groups - Coda 2 Sidebar Plugin v.1.1 | © D.G. Midwinter, @duncanmid
 
 function createSampleFile() {
 

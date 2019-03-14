@@ -1,4 +1,4 @@
-//note(@duncanmid): Comment Groups - Coda 2 Sidebar Plugin v.1.0 | © D.G. Midwinter, @duncanmid
+//note(@duncanmid): Comment Groups - Coda 2 Sidebar Plugin v.1.1 | © D.G. Midwinter, @duncanmid
 
 //done(@duncanmid): regEx patterns
 
@@ -465,9 +465,9 @@ $(document).ready(function() {
 	
 	
 	
-	$('#twitter').click( function() {
+	$('#mastodon').click( function() {
 		
-		window.CodaPlugInsController.displayHTMLString('<meta http-equiv="refresh" content="1;url=http://twitter.com/duncanmid" />');
+		window.CodaPlugInsController.displayHTMLString('<meta http-equiv="refresh" content="1;url=https://mastodon.technology/@duncanmid" />');
 		
 	});
 });
